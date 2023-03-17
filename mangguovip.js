@@ -21,7 +21,7 @@ TG频道群：https://t.me/xhj1006
 ^http[s]?:\/\/.*mgtv\.com/(client\/dynamic_entry|v8\/video\/getSource|GetUserInfo|v3\/module\/list|credits\/url).*$ url script-response-body https://raw.githubusercontent.com/WeiRen0/Scripts/main/MGTV.js
 #去除部分绝流Ad
 ^https?:\/\/pcvideoyd\.titan\.mgtv\.com\/pb\/ url reject-img
-^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/ url reject-200
+
 ^https?:\/\/sf3-fe-tos\.pglstatp-toutiao\.com\/obj\/ad-pattern\/renderer\/package\.json url reject-200
 ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/server_bidding\/pre_fetch\/ url reject-200
 mgtv&suuid\=.*&testversion\=&ticket\=[a-zA-Z0-9]{32} url 302 mgtv&suuid=089ea9122b0fd80833678ee6de0c435e&testversion=&ticket=5AA105BA10C33A2E954E59ACCDFF7FA7
