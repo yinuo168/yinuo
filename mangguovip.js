@@ -1,14 +1,15 @@
-
 /***************************************
 
-芒果TV:Vip
+芒果TV:Vip 6.0.0
+
 脚本作者：无名
 作者QQ: 无名
-更新时间：2023-03-16
-问题反馈：加入交流群
+更新时间：2023-03-17
+问题反馈：添加作者频道
 作者忠告: 不要贩卖
+QQ会员群：PY作者
 TG反馈群：https://t.me/xhj1006
-TG频道群：https://t.me/xhj1006
+TG频道群：https://t.me/xhj1002
 使用声明：⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
 
 **************************************
@@ -18,12 +19,11 @@ TG频道群：https://t.me/xhj1006
 
 ^http[s]?:\/\/mobile\.api\.mgtv\.com\/v[0-9]\/(playlist|video\/album|video\/relative|video\/list).*$ url script-request-header https://raw.githubusercontent.com/WeiRen0/Scripts/main/MGTK.js
 ^http[s]?:\/\/.*mgtv\.com/(client\/dynamic_entry|v8\/video\/getSource|GetUserInfo|v3\/module\/list|credits\/url).*$ url script-response-body https://raw.githubusercontent.com/WeiRen0/Scripts/main/MGTV.js
-#去除部分绝流Ad
 ^https?:\/\/pcvideoyd\.titan\.mgtv\.com\/pb\/ url reject-img
 ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/ url reject-200
 ^https?:\/\/sf3-fe-tos\.pglstatp-toutiao\.com\/obj\/ad-pattern\/renderer\/package\.json url reject-200
 ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/server_bidding\/pre_fetch\/ url reject-200
-mgtv&suuid\=.*&testversion\=&ticket\=[a-zA-Z0-9]{32} url 302 mgtv&suuid=089ea9122b0fd80833678ee6de0c435e&testversion=&ticket=5AA105BA10C33A2E954E59ACCDFF7FA7
+&source=ch_channel&src=mgtv&suuid\=.*&testversion\=&ticket\=[a-zA-Z0-9]{32} url 307 &source=ch_channel&src=mgtv&suuid=45b2ada0cc629b7fdf7fcdd5eee8d385&testversion=&ticket=80F59B42F43A33508C6CD5B7D2CD18BB
 ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/stats\/batch\/ url reject-200
 ^https?:\/\/mob\.bz\.mgtv\.com\/odin\/c1\/channel\/ads\?_ url reject-200
 ^https?:\/\/mobile\.api\.mgtv\.com\/mobile\/config\?_support url reject-200
