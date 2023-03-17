@@ -26,6 +26,7 @@ TG频道群：https://t.me/xhj1002
 &source=ch_channel&src=mgtv&suuid\=.*&testversion\=&ticket\=[a-zA-Z0-9]{32} url 307 &source=ch_channel&src=mgtv&suuid=45b2ada0cc629b7fdf7fcdd5eee8d385&testversion=&ticket=80F59B42F43A33508C6CD5B7D2CD18BB
 ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/stats\/batch\/ url reject-200
 ^https?:\/\/mob\.bz\.mgtv\.com\/odin\/c1\/channel\/ads\?_ url reject-200
+^https?:\/\/mobile\.api\.mgtv\.com\/mobile\/config\?_support url reject-200
 ^https?:\/\/sf3-fe-tos\.pglstatp-toutiao\.com\/obj\/ad-pattern\/renderer\/ url reject-200
 
 [mitm]
