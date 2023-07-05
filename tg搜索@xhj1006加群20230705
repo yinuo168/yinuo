@@ -77,13 +77,31 @@ proxies:
   - {name: TG搜索@xhj1006来进群f6 11, server: ldauvycer.76898102.xyz, port: 2086, type: vmess, uuid: 5086a9b6-aa80-3ccb-9fb7-03d5ffd146c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /opengtc, headers: {Host: ldauvycer.76898102.xyz}}, udp: true}
   - {name: TG搜索@xhj1006来进群f6 12, server: fnwaubdu.76898102.xyz, port: 2095, type: vmess, uuid: 5086a9b6-aa80-3ccb-9fb7-03d5ffd146c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /funsdfrh, headers: {Host: fnwaubdu.76898102.xyz}}, udp: true}
   - {name: TG搜索@xhj1006来进群f6 13, server: amstdhebb.76898102.xyz, port: 2095, type: vmess, uuid: 5086a9b6-aa80-3ccb-9fb7-03d5ffd146c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /funsdfrh, headers: {Host: amstdheb.76898102.xyz}}, udp: true}
-  - {name: "@xhj1006华人回内地专线(广东)", server: 111.230.252.149, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "@xhj1006华人回内地专线(四川)", server: 114.117.234.12, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 @xhj1006华人回内地专线(上海), server: 42.192.17.34, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 🇨🇳 @xhj1006华人回内地专线(北京), server: 39.103.165.178, port: 56002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "@xhj1006华人回内地专线(南京)", server: 175.27.154.61, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "@xhj1006华人回内地专线(安徽)", server: 112.132.212.112, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: "@xhj1006华人回内地专线(安徽) 2", server: 112.132.215.189, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz, server: newapisg.abbblog.xyz, port: 34421, type: ss, cipher: aes-128-gcm, password: db88fbc7-5852-4e75-b4c0-67df739cf98b, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 2, server: newapisg.abbblog.xyz, port: 34421, type: ss, cipher: aes-128-gcm, password: 094acfd0-08bf-4b05-a0eb-45ad66a243bd, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 3, server: hk.bitc.eu.org, port: 2096, type: vmess, uuid: 13a677be-88dc-4f28-9e0c-596dec18419a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hk.zuils.ml}}, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 4, server: s1.nnnx111.xyz, port: 13021, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 5, server: t-06.nnf613.xyz, port: 13029, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 6, server: s1.nnnx111.xyz, port: 13001, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: 50-116-3-7.nhost.00cdn.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 7, server: s1.nnnx111.xyz, port: 13002, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 8, server: s1.nnnx111.xyz, port: 13003, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 9, server: t-06.nnf613.xyz, port: 14001, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: 50-116-3-7.nhost.00cdn.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 10, server: t-06.nnf613.xyz, port: 14002, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 11, server: s1.nnnx111.xyz, port: 13017, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: 50-116-3-7.nhost.00cdn.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 12, server: s1.nnnx111.xyz, port: 13048, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 13, server: s1.nnnx111.xyz, port: 13049, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 14, server: t-06.nnf613.xyz, port: 13061, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 15, server: t-06.nnf613.xyz, port: 13062, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 16, server: s1.nnnx111.xyz, port: 13007, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 17, server: t-06.nnf613.xyz, port: 14008, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: TG搜索@xhj1006来进群zz 18, server: t-06.nnf613.xyz, port: 14009, type: trojan, password: dc05c0d2-0e0f-37a9-82a4-8b38b56cdb58, sni: ip2648428075.mobgslb.tbcache.com, skip-cert-verify: false, udp: true}
+  - {name: 电信一区(广东), server: 111.230.252.149, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 电信二区(四川), server: 114.117.234.12, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 联通四区(上海), server: 42.192.17.34, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 联通一区(北京), server: 39.103.165.178, port: 56002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 电信一区(南京), server: 175.27.154.61, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 中国安徽A, server: 112.132.212.112, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 教育网专区(安徽), server: 112.132.215.189, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
 proxy-groups:
   - name: 🚀 Nexitally
     type: select
@@ -173,13 +191,31 @@ proxy-groups:
       - TG搜索@xhj1006来进群f6 11
       - TG搜索@xhj1006来进群f6 12
       - TG搜索@xhj1006来进群f6 13
-      - "@xhj1006华人回内地专线(广东)"
-      - "@xhj1006华人回内地专线(四川)"
-      - 🇨🇳 @xhj1006华人回内地专线(上海)
-      - 🇨🇳 @xhj1006华人回内地专线(北京)
-      - "@xhj1006华人回内地专线(南京)"
-      - "@xhj1006华人回内地专线(安徽)"
-      - "@xhj1006华人回内地专线(安徽) 2"
+      - TG搜索@xhj1006来进群zz
+      - TG搜索@xhj1006来进群zz 2
+      - TG搜索@xhj1006来进群zz 3
+      - TG搜索@xhj1006来进群zz 4
+      - TG搜索@xhj1006来进群zz 5
+      - TG搜索@xhj1006来进群zz 6
+      - TG搜索@xhj1006来进群zz 7
+      - TG搜索@xhj1006来进群zz 8
+      - TG搜索@xhj1006来进群zz 9
+      - TG搜索@xhj1006来进群zz 10
+      - TG搜索@xhj1006来进群zz 11
+      - TG搜索@xhj1006来进群zz 12
+      - TG搜索@xhj1006来进群zz 13
+      - TG搜索@xhj1006来进群zz 14
+      - TG搜索@xhj1006来进群zz 15
+      - TG搜索@xhj1006来进群zz 16
+      - TG搜索@xhj1006来进群zz 17
+      - TG搜索@xhj1006来进群zz 18
+      - 电信一区(广东)
+      - 电信二区(四川)
+      - 🇨🇳 联通四区(上海)
+      - 🇨🇳 联通一区(北京)
+      - 电信一区(南京)
+      - 🇨🇳 中国安徽A
+      - 教育网专区(安徽)
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -258,13 +294,31 @@ proxy-groups:
       - TG搜索@xhj1006来进群f6 11
       - TG搜索@xhj1006来进群f6 12
       - TG搜索@xhj1006来进群f6 13
-      - "@xhj1006华人回内地专线(广东)"
-      - "@xhj1006华人回内地专线(四川)"
-      - 🇨🇳 @xhj1006华人回内地专线(上海)
-      - 🇨🇳 @xhj1006华人回内地专线(北京)
-      - "@xhj1006华人回内地专线(南京)"
-      - "@xhj1006华人回内地专线(安徽)"
-      - "@xhj1006华人回内地专线(安徽) 2"
+      - TG搜索@xhj1006来进群zz
+      - TG搜索@xhj1006来进群zz 2
+      - TG搜索@xhj1006来进群zz 3
+      - TG搜索@xhj1006来进群zz 4
+      - TG搜索@xhj1006来进群zz 5
+      - TG搜索@xhj1006来进群zz 6
+      - TG搜索@xhj1006来进群zz 7
+      - TG搜索@xhj1006来进群zz 8
+      - TG搜索@xhj1006来进群zz 9
+      - TG搜索@xhj1006来进群zz 10
+      - TG搜索@xhj1006来进群zz 11
+      - TG搜索@xhj1006来进群zz 12
+      - TG搜索@xhj1006来进群zz 13
+      - TG搜索@xhj1006来进群zz 14
+      - TG搜索@xhj1006来进群zz 15
+      - TG搜索@xhj1006来进群zz 16
+      - TG搜索@xhj1006来进群zz 17
+      - TG搜索@xhj1006来进群zz 18
+      - 电信一区(广东)
+      - 电信二区(四川)
+      - 🇨🇳 联通四区(上海)
+      - 🇨🇳 联通一区(北京)
+      - 电信一区(南京)
+      - 🇨🇳 中国安徽A
+      - 教育网专区(安徽)
   - name: 📲 电报消息
     type: select
     proxies:
@@ -574,13 +628,31 @@ proxy-groups:
       - TG搜索@xhj1006来进群f6 11
       - TG搜索@xhj1006来进群f6 12
       - TG搜索@xhj1006来进群f6 13
-      - "@xhj1006华人回内地专线(广东)"
-      - "@xhj1006华人回内地专线(四川)"
-      - 🇨🇳 @xhj1006华人回内地专线(上海)
-      - 🇨🇳 @xhj1006华人回内地专线(北京)
-      - "@xhj1006华人回内地专线(南京)"
-      - "@xhj1006华人回内地专线(安徽)"
-      - "@xhj1006华人回内地专线(安徽) 2"
+      - TG搜索@xhj1006来进群zz
+      - TG搜索@xhj1006来进群zz 2
+      - TG搜索@xhj1006来进群zz 3
+      - TG搜索@xhj1006来进群zz 4
+      - TG搜索@xhj1006来进群zz 5
+      - TG搜索@xhj1006来进群zz 6
+      - TG搜索@xhj1006来进群zz 7
+      - TG搜索@xhj1006来进群zz 8
+      - TG搜索@xhj1006来进群zz 9
+      - TG搜索@xhj1006来进群zz 10
+      - TG搜索@xhj1006来进群zz 11
+      - TG搜索@xhj1006来进群zz 12
+      - TG搜索@xhj1006来进群zz 13
+      - TG搜索@xhj1006来进群zz 14
+      - TG搜索@xhj1006来进群zz 15
+      - TG搜索@xhj1006来进群zz 16
+      - TG搜索@xhj1006来进群zz 17
+      - TG搜索@xhj1006来进群zz 18
+      - 电信一区(广东)
+      - 电信二区(四川)
+      - 🇨🇳 联通四区(上海)
+      - 🇨🇳 联通一区(北京)
+      - 电信一区(南京)
+      - 🇨🇳 中国安徽A
+      - 教育网专区(安徽)
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
