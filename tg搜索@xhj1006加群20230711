@@ -42,13 +42,10 @@ proxies:
   - {name: TG搜索@xhj1006来进群f 24, server: bxcc.76898102.xyz, port: 2052, type: vmess, uuid: 78fd41e5-346a-3bf4-b942-be0fad711979, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxsmiao, headers: {Host: bxc.76898102.xyz}}, udp: true}
   - {name: TG搜索@xhj1006来进群f 25, server: baxamdyfa.76898102.xyz, port: 2052, type: vmess, uuid: 78fd41e5-346a-3bf4-b942-be0fad711979, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxzmiao, headers: {Host: baxamdyfa.76898102.xyz}}, udp: true}
   - {name: TG搜索@xhj1006来进群f 26, server: baxwabe.76898102.xyz, port: 2052, type: vmess, uuid: 78fd41e5-346a-3bf4-b942-be0fad711979, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /aubverfsg, headers: {Host: baxwabe.76898102.xyz}}, udp: true}
-  - {name: TG搜索@xhj1006来进群z, server: cf1.992688.xyz, port: 8080, type: vmess, uuid: fda2c765-ed35-4e97-ba13-ed64b1c4c460, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hax.vpn66.eu.org}}, udp: true}
-  - {name: TG搜索@xhj1006来进群z 2, server: cf2.992688.xyz, port: 8080, type: vmess, uuid: fda2c765-ed35-4e97-ba13-ed64b1c4c460, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hax.vpn66.eu.org}}, udp: true}
-  - {name: TG搜索@xhj1006来进群z 3, server: cf3.992688.xyz, port: 8080, type: vmess, uuid: fda2c765-ed35-4e97-ba13-ed64b1c4c460, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hax.vpn66.eu.org}}, udp: true}
-  - {name: TG搜索@xhj1006来进群z 4, server: cf1.992688.xyz, port: 8080, type: vmess, uuid: 5f098028-ea22-42ea-abfd-9222cb298b74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vceu.vpn66.eu.org}}, udp: true}
-  - {name: TG搜索@xhj1006来进群z 5, server: cf2.992688.xyz, port: 8080, type: vmess, uuid: 5f098028-ea22-42ea-abfd-9222cb298b74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vceu.vpn66.eu.org}}, udp: true}
-  - {name: TG搜索@xhj1006来进群z 6, server: cf3.992688.xyz, port: 8080, type: vmess, uuid: 5f098028-ea22-42ea-abfd-9222cb298b74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vceu.vpn66.eu.org}}, udp: true}
-  - {name: TG搜索@xhj1006来进群z 7, server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: dp4.scproxy.top}}, udp: true}
+  - {name: TG搜索@xhj1006来进群z, server: cf2.992688.xyz, port: 8080, type: vmess, uuid: fda2c765-ed35-4e97-ba13-ed64b1c4c460, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hax.vpn66.eu.org}}, udp: true}
+  - {name: TG搜索@xhj1006来进群z 2, server: cf3.992688.xyz, port: 8080, type: vmess, uuid: fda2c765-ed35-4e97-ba13-ed64b1c4c460, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hax.vpn66.eu.org}}, udp: true}
+  - {name: TG搜索@xhj1006来进群z 3, server: cf3.992688.xyz, port: 8080, type: vmess, uuid: 5f098028-ea22-42ea-abfd-9222cb298b74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vceu.vpn66.eu.org}}, udp: true}
+  - {name: TG搜索@xhj1006来进群z 4, server: cf-lt.sharecentre.online, port: 80, type: vmess, uuid: 5f751c6e-50b1-4797-ba8e-6ffe324a0bce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /shirker, headers: {Host: dp4.scproxy.top}}, udp: true}
   - {name: TG搜索@xhj1006来进群f 27, server: amszxc.66666654.xyz, port: 2095, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hgcefomn, headers: {Host: amszx.66666654.xyz}}, udp: true}
   - {name: TG搜索@xhj1006来进群f 28, server: jhpcza.66666654.xyz, port: 2082, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /bxpty, headers: {Host: jhpcz.66666654.xyz}}, udp: true}
   - {name: TG搜索@xhj1006来进群f 29, server: fldsubgigtujuy.76898102.xyz, port: 2095, type: vmess, uuid: f78a8c93-fbd4-38e9-ac8d-5ffc476503d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /miaoGK, headers: {Host: fldsubgigtujuy.76898102.xyz}}, udp: true}
@@ -207,9 +204,6 @@ proxy-groups:
       - TG搜索@xhj1006来进群z 2
       - TG搜索@xhj1006来进群z 3
       - TG搜索@xhj1006来进群z 4
-      - TG搜索@xhj1006来进群z 5
-      - TG搜索@xhj1006来进群z 6
-      - TG搜索@xhj1006来进群z 7
       - TG搜索@xhj1006来进群f 27
       - TG搜索@xhj1006来进群f 28
       - TG搜索@xhj1006来进群f 29
@@ -357,9 +351,6 @@ proxy-groups:
       - TG搜索@xhj1006来进群z 2
       - TG搜索@xhj1006来进群z 3
       - TG搜索@xhj1006来进群z 4
-      - TG搜索@xhj1006来进群z 5
-      - TG搜索@xhj1006来进群z 6
-      - TG搜索@xhj1006来进群z 7
       - TG搜索@xhj1006来进群f 27
       - TG搜索@xhj1006来进群f 28
       - TG搜索@xhj1006来进群f 29
@@ -738,9 +729,6 @@ proxy-groups:
       - TG搜索@xhj1006来进群z 2
       - TG搜索@xhj1006来进群z 3
       - TG搜索@xhj1006来进群z 4
-      - TG搜索@xhj1006来进群z 5
-      - TG搜索@xhj1006来进群z 6
-      - TG搜索@xhj1006来进群z 7
       - TG搜索@xhj1006来进群f 27
       - TG搜索@xhj1006来进群f 28
       - TG搜索@xhj1006来进群f 29
